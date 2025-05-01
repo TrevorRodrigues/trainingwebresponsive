@@ -1,0 +1,29 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  },
+  "dependencies": {
+    "@fontsource/libre-franklin": "^5.1.2",
+    "@tailwindcss/cli": "^4.1.4",
+    "@tailwindcss/vite": "^4.1.4"
+  },
+  "name": "webstrankatailwind---copy",
+  "version": "1.0.0",
+  "description": "\"# training-page\" \r \"# training-page\" \r \"# training\" \r \"# training\" \r \"# training\" \r \"# trainingweb\" \r \"# trainingweb\" \r \"# trainingweb\" \r \"# responsive\" \r \"# responsive\" \r \"# responsive\" \r \"# denisweb\"",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrevorRodrigues/dendosko.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/TrevorRodrigues/dendosko/issues"
+  },
+  "homepage": "https://github.com/TrevorRodrigues/dendosko#readme"
+}

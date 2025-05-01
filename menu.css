@@ -1,0 +1,25 @@
+nav a {
+    
+    justify-content: center;
+    border: solid ;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: "Libre Franklin";
+    color: rgb(214, 212, 212);
+    background: rgb(13, 13, 14);
+    padding: 13px;
+    border-radius: 8px;
+    margin: 30px;
+    transition:  0.7s;
+    width: 350px;
+}
+
+nav a:hover {
+    background-color: white;
+    color: black;
+}
+
+
+
+   
