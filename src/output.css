@@ -63,27 +63,16 @@
 .items-center {
   align-items: center;
 }
+.border {
+  border-style: var(--tw-border-style);
+  border-width: 1px;
+}
 .border-8 {
   border-style: var(--tw-border-style);
   border-width: 8px;
 }
-.bg-\[url\(\'\.\/src\/img\/cenzurovanepozadiedenisweb\.png\'\)\] {
-  background-image: url('./src/img/cenzurovanepozadiedenisweb.png');
-}
-.bg-\[url\(\'\.cenzurovanepozadiedenisweb\.png\'\)\] {
-  background-image: url('.cenzurovanepozadiedenisweb.png');
-}
-.bg-\[url\(\'\.src\/cenzurovanepozadiedenisweb\.png\'\)\] {
-  background-image: url('.src/cenzurovanepozadiedenisweb.png');
-}
-.bg-\[url\(\'\.src\/img\/cenzurovanepozadiedenisweb\.png\'\)\] {
-  background-image: url('.src/img/cenzurovanepozadiedenisweb.png');
-}
-.bg-\[url\(\'\.src\/imgcenzurovanepozadiedenisweb\.png\'\)\] {
-  background-image: url('.src/imgcenzurovanepozadiedenisweb.png');
-}
-.bg-\[url\(\'\.srccenzurovanepozadiedenisweb\.png\'\)\] {
-  background-image: url('.srccenzurovanepozadiedenisweb.png');
+.bg-\[url\(\'src\/img\/cenzurovanepozadiedenisweb\.png\'\)\] {
+  background-image: url('src/img/cenzurovanepozadiedenisweb.png');
 }
 .bg-cover {
   background-size: cover;
@@ -97,8 +86,14 @@
 .text-center {
   text-align: center;
 }
+.text-\[50px\] {
+  font-size: 50px;
+}
 .text-\[55px\] {
   font-size: 55px;
+}
+.text-\[60px\] {
+  font-size: 60px;
 }
 @property --tw-border-style {
   syntax: "*";

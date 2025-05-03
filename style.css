@@ -1,3 +1,7 @@
+.bg-\[url\(\'src\/img\/cenzurovanepozadiedenisweb\.png\'\)\] {
+    background-image: url('src/img/cenzurovanepozadiedenisweb.png');
+}
+
 h1 {
     color: #b8860b;
     padding-left: 20px;
